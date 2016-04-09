@@ -28,7 +28,7 @@ public class VueProjectGenerator extends WebProjectTemplate<VueProjectWizardData
 
     @Override
     public String getDescription() {
-        return null;
+        return "";
     }
 
     @Override
